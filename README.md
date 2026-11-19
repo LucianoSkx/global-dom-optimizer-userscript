@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Global DOM Optimizer — Violentmonkey userscript">
 
-[![Version](https://img.shields.io/badge/version-0.0.8-1fe779?style=flat-square)](https://github.com/LucianoSkx/global-dom-optimizer-userscript)
+[![Version](https://img.shields.io/badge/version-0.0.9-1fe779?style=flat-square)](https://github.com/LucianoSkx/global-dom-optimizer-userscript)
 [![License: MIT](https://img.shields.io/badge/license-MIT-34d399?style=flat-square)](LICENSE)
 [![Violentmonkey](https://img.shields.io/badge/userscript-Violentmonkey-f97316?style=flat-square)](https://violentmonkey.github.io)
 [![JavaScript](https://img.shields.io/badge/JavaScript-100%25-fbbf24?style=flat-square&logo=javascript&logoColor=black)](https://github.com/LucianoSkx/global-dom-optimizer-userscript)

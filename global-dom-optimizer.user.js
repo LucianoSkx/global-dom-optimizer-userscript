@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Global DOM Optimizer
 // @namespace    arkflame.global-dom-optimizer
-// @version      0.0.8
+// @version      0.0.9
 // @icon         data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cmVjdCB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgcng9IjI5IiBmaWxsPSIjMGQxNTFjIi8+PHBhdGggZD0iTTMyIDg5QzMwIDU0IDQ5IDM0IDEwMiAyNWMwIDQ2LTIyIDc1LTU5IDcyLTQtMTEtNS0yNSAwLTM3LTcgMTAtMTEgMjAtMTEgMjlaIiBmaWxsPSIjMWZlNzc5Ii8+PHBhdGggZD0iTTI1IDEwNkMzMyA3NyA1MSA1NSA4MyA0MiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNTNmZjliIiBzdHJva2Utd2lkdGg9IjciIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPg==
-// @description  Reduce offscreen rendering work on long pages with automatic viewport-aware containment. No content removal or data collection.
+// @description  Skip rendering for off-screen blocks on long pages via viewport-aware content-visibility containment — the DOM stays intact, no data collection.
 // @author       LucianoSkx - Violentmonkey port based on the original Global DOM Optimizer browser extension by ArkFlame Studios (https://arkflame.com)
 // @homepageURL  https://github.com/LucianoSkx/global-dom-optimizer-userscript
 // @supportURL   https://github.com/LucianoSkx/global-dom-optimizer-userscript/issues
