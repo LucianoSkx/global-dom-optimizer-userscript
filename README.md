@@ -10,7 +10,7 @@
 **Viewport-aware containment for long pages — without removing a single node.**<br>
 A [Violentmonkey](https://violentmonkey.github.io) userscript port of the original **Global DOM Optimizer** browser extension by **ArkFlame Studios**.
 
-[![Install for Violentmonkey](https://img.shields.io/badge/Install_for_Violentmonkey-1fe779?style=for-the-badge&logo=greasemonkey&logoColor=black)](https://raw.githubusercontent.com/LucianoSkx/global-dom-optimizer-userscript/main/global-dom-optimizer.user.js)
+[![Install Userscript](https://img.shields.io/badge/Install_Userscript-8b5cf6?style=for-the-badge&logoColor=white)](https://raw.githubusercontent.com/LucianoSkx/global-dom-optimizer-userscript/main/global-dom-optimizer.user.js)
 
 </div>
 
